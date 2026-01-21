@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\OneDrive\\Documentos\\GitHub\\ESTRUCTURA-DE-DATOS-Kerly-Granoble\\semana5\\Semana5.csproj": {}
+    "C:\\Users\\Asus\\OneDrive\\Documentos\\GitHub\\ESTRUCTURA-DE-DATOS-Kerly-Granoble\\Semana5\\Semana5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\OneDrive\\Documentos\\GitHub\\ESTRUCTURA-DE-DATOS-Kerly-Granoble\\semana5\\Semana5.csproj": {
+    "C:\\Users\\Asus\\OneDrive\\Documentos\\GitHub\\ESTRUCTURA-DE-DATOS-Kerly-Granoble\\Semana5\\Semana5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\OneDrive\\Documentos\\GitHub\\ESTRUCTURA-DE-DATOS-Kerly-Granoble\\semana5\\Semana5.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\OneDrive\\Documentos\\GitHub\\ESTRUCTURA-DE-DATOS-Kerly-Granoble\\Semana5\\Semana5.csproj",
         "projectName": "Semana5",
-        "projectPath": "C:\\Users\\Asus\\OneDrive\\Documentos\\GitHub\\ESTRUCTURA-DE-DATOS-Kerly-Granoble\\semana5\\Semana5.csproj",
+        "projectPath": "C:\\Users\\Asus\\OneDrive\\Documentos\\GitHub\\ESTRUCTURA-DE-DATOS-Kerly-Granoble\\Semana5\\Semana5.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\OneDrive\\Documentos\\GitHub\\ESTRUCTURA-DE-DATOS-Kerly-Granoble\\semana5\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\OneDrive\\Documentos\\GitHub\\ESTRUCTURA-DE-DATOS-Kerly-Granoble\\Semana5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config"

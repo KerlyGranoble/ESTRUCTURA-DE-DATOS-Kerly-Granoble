@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS-Kerly-Granoble\Semana8\bin\Debug\net10.0\Semana8.exe
+C:\Users\Asus\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS-Kerly-Granoble\Semana8\bin\Debug\net10.0\Semana8.deps.json
+C:\Users\Asus\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS-Kerly-Granoble\Semana8\bin\Debug\net10.0\Semana8.runtimeconfig.json
+C:\Users\Asus\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS-Kerly-Granoble\Semana8\bin\Debug\net10.0\Semana8.dll
+C:\Users\Asus\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS-Kerly-Granoble\Semana8\bin\Debug\net10.0\Semana8.pdb
+C:\Users\Asus\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS-Kerly-Granoble\Semana8\obj\Debug\net10.0\Semana8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS-Kerly-Granoble\Semana8\obj\Debug\net10.0\Semana8.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS-Kerly-Granoble\Semana8\obj\Debug\net10.0\Semana8.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS-Kerly-Granoble\Semana8\obj\Debug\net10.0\Semana8.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS-Kerly-Granoble\Semana8\obj\Debug\net10.0\Semana8.sourcelink.json
+C:\Users\Asus\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS-Kerly-Granoble\Semana8\obj\Debug\net10.0\Semana8.dll
+C:\Users\Asus\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS-Kerly-Granoble\Semana8\obj\Debug\net10.0\refint\Semana8.dll
+C:\Users\Asus\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS-Kerly-Granoble\Semana8\obj\Debug\net10.0\Semana8.pdb
+C:\Users\Asus\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS-Kerly-Granoble\Semana8\obj\Debug\net10.0\Semana8.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS-Kerly-Granoble\Semana8\obj\Debug\net10.0\ref\Semana8.dll

@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS-Kerly-Granoble\semana 16\bin\Debug\net10.0\semana 16.exe
+C:\Users\Asus\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS-Kerly-Granoble\semana 16\bin\Debug\net10.0\semana 16.deps.json
+C:\Users\Asus\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS-Kerly-Granoble\semana 16\bin\Debug\net10.0\semana 16.runtimeconfig.json
+C:\Users\Asus\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS-Kerly-Granoble\semana 16\bin\Debug\net10.0\semana 16.dll
+C:\Users\Asus\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS-Kerly-Granoble\semana 16\bin\Debug\net10.0\semana 16.pdb
+C:\Users\Asus\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS-Kerly-Granoble\semana 16\obj\Debug\net10.0\semana 16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS-Kerly-Granoble\semana 16\obj\Debug\net10.0\semana 16.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS-Kerly-Granoble\semana 16\obj\Debug\net10.0\semana 16.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS-Kerly-Granoble\semana 16\obj\Debug\net10.0\semana 16.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS-Kerly-Granoble\semana 16\obj\Debug\net10.0\semana 16.sourcelink.json
+C:\Users\Asus\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS-Kerly-Granoble\semana 16\obj\Debug\net10.0\semana 16.dll
+C:\Users\Asus\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS-Kerly-Granoble\semana 16\obj\Debug\net10.0\refint\semana 16.dll
+C:\Users\Asus\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS-Kerly-Granoble\semana 16\obj\Debug\net10.0\semana 16.pdb
+C:\Users\Asus\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS-Kerly-Granoble\semana 16\obj\Debug\net10.0\semana 16.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS-Kerly-Granoble\semana 16\obj\Debug\net10.0\ref\semana 16.dll
